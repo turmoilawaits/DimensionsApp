@@ -1,6 +1,6 @@
 DimensionsApp is an Android app which can be used to accurately estimate object's dimensions. It can be used as an accurate and reliable measuring device.
 
-Detail report : 
+Detail report (Download the report for best quality): 
 https://drive.google.com/file/d/0B7Am6-nOVeP7TFFlb29SODFwTnc/edit?usp=sharing
 
 Steps to follow for using DimensionsApp:
